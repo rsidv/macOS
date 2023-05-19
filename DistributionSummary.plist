@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sr Learner Test</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>x86_64</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>152ADE3A89A65A835C5AFB198B3F1143E89F0957</string>
+				<key>dateExpires</key>
+				<string>17/02/24</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>com.apple.application-identifier</key>
+				<string>4WB5JBQVY8.eldorado.DaVinci-macOS</string>
+				<key>com.apple.developer.aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.icloud-container-environment</key>
+				<string>Production</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array>
+					<string>iCloud.eldorado.DaVinci</string>
+				</array>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudKit</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4WB5JBQVY8</string>
+				<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+				<string>4WB5JBQVY8.eldorado.DaVinci-macOS</string>
+				<key>com.apple.security.app-sandbox</key>
+				<true/>
+				<key>com.apple.security.files.user-selected.read-only</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Sr Learner Test.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e7e90a27-7d1d-4329-ad40-c1c3f0875404</string>
+				<key>dateExpires</key>
+				<string>03/05/24</string>
+				<key>name</key>
+				<string>Mac Team Provisioning Profile: eldorado.DaVinci-macOS</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4WB5JBQVY8</string>
+				<key>name</key>
+				<string>Instituto de Pesquisas Eldorado</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

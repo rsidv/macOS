@@ -1,0 +1,669 @@
+[
+    {
+        "code": "BU-BUS-001",
+        "strand": "App Business and Marketing",
+        "learningGoal": "Learn about business decisions that need to be made when planning the development of an app.",
+        "learningGoalShortened": "Business",
+        "learningObjective": "I can describe the Unique Value Proposition for an app.",
+        "keywords": ["Value Proposition"],
+        "priority": "Core"
+    },
+    {
+        "code": "BU-BUS-002",
+        "strand": "App Business and Marketing",
+        "learningGoal": "Learn about business decisions that need to be made when planning the development of an app.",
+        "learningGoalShortened": "Business",
+        "learningObjective": "I can perform an effective competitive analysis for an app.",
+        "keywords": ["Competitive analysis"],
+        "priority": "Core"
+    },
+    {
+        "code": "BU-BUS-003",
+        "strand": "App Business and Marketing",
+        "learningGoal": "Learn about business decisions that need to be made when planning the development of an app.",
+        "learningGoalShortened": "Business",
+        "learningObjective": "I can define minimum or initial features to develop a Minimum Viable Product (MVP) for a business.",
+        "keywords": ["Main features" , "Minimum Viable Product"],
+        "priority": "Elective"
+    },
+    {
+        "code": "BU-ENT-001",
+        "strand": "App Business and Marketing",
+        "learningGoal": "Learn how to create ideas for Apps with sustainable economic value based on current market conditions",
+        "learningGoalShortened": "Entrepreneurship",
+        "learningObjective": "I can critically evaluate the underpinning concepts of the ‘triple bottom line’ and its implications on the establishment and successful management of social enterprises.",
+        "keywords": ["Sustainability", "Sustainable", "Triple bottom line"],
+        "priority": "Elective"
+    },
+    {
+        "code": "BU-MKT-001",
+        "strand": "App Business and Marketing",
+        "learningGoal": "Learn how to craft an effective presence in the App Store and reach and engage your users through marketing.",
+        "learningGoalShortened": "Marketing",
+        "learningObjective": "I understand how to implement App Store Product Page Optimization to help users find the App",
+        "keywords": ["App Store search optimization", "SEO"],
+        "priority": "Core"
+    },
+    {
+        "code": "BU-MKT-002",
+        "strand": "App Business and Marketing",
+        "learningGoal": "Learn how to craft an effective presence in the App Store and reach and engage your users through marketing.",
+        "learningGoalShortened": "Marketing",
+        "learningObjective": "I understand how to publish an app as a pre-order.",
+        "keywords": ["App store pre-order"],
+        "priority": "Elective"
+    },
+    {
+        "code": "BU-REV-001",
+        "strand": "App Business and Marketing",
+        "learningGoal": "Learn how to follow the App Store Review Guidelines and understand the basic Legal aspects of app development.",
+        "learningGoalShortened": "Legal and App Review Guidelines",
+        "learningObjective": "I understand all of the legal aspects of user privacy in the App Store Review Guidelines.",
+        "keywords": ["COPPA", "Children", "Data collection", "Data mining", "Data sharing", "Data storage", "GDPR", "Health", "Kids", "Location", "Location services", "Permission", "Privacy", "Research", "Tracking", "User data"],
+        "priority": "Core"
+    },
+    {
+        "code": "BU-REV-003",
+        "strand": "App Business and Marketing",
+        "learningGoal": "Learn how to follow the App Store Review Guidelines and understand the basic Legal aspects of app development.",
+        "learningGoalShortened": "Legal and App Review Guidelines",
+        "learningObjective": "I understand Apple’s legal requirements and restrictions concerning sweepstakes, contests, gambling, lotteries, virtual private networks (VPN), and mobile device management (MDM).",
+        "keywords": ["Contests", "Gambling", "Gaming", "Lotteries", "Lottery", "MDM", "Sweepstakes", "VPN"],
+        "priority": "Elective"
+    },
+    {
+        "code": "CD-DT-001",
+        "strand": "Coding",
+        "learningGoal": "Learn how to work with Developer Tools",
+        "learningGoalShortened": "Developer Tools",
+        "learningObjective": "I can use Xcode to create application projects and workspaces",
+        "keywords": ["App project", "App templates"],
+        "priority": "Core"
+    },
+    {
+        "code": "CD-DT-002",
+        "strand": "Coding",
+        "learningGoal": "Learn how to work with Developer Tools",
+        "learningGoalShortened": "Developer Tools",
+        "learningObjective": "I can create interactive learning experiences with Swift Playgrounds",
+        "keywords": ["Playground Setup"],
+        "priority": "Core"
+    },
+    {
+        "code": "CD-DT-007",
+        "strand": "Coding",
+        "learningGoal": "Learn how to work with Developer Tools",
+        "learningGoalShortened": "Developer Tools",
+        "learningObjective": "I can produce rich API reference documentation and interactive tutorials for my Swift framework or package with DocC",
+        "keywords": ["Documentation Types", "Shared Syntax"],
+        "priority": "Elective"
+    },
+    {
+        "code": "CD-ID-001",
+        "strand": "Coding",
+        "learningGoal": "Learn how to work with Interface Development",
+        "learningGoalShortened": "Interface Development",
+        "learningObjective": "I can create a hierarchy of configured views using SwiftUI",
+        "keywords": ["View", "View modifiers"],
+        "priority": "Core"
+    },
+    {
+        "code": "CD-ID-010",
+        "strand": "Coding",
+        "learningGoal": "Learn how to work with Interface Development",
+        "learningGoalShortened": "Interface Development",
+        "learningObjective": "I can create smooth transitions from one state to another using SwiftUI",
+        "keywords": ["Animation", "Transactions", "Transitions"],
+        "priority": "Elective"
+    },
+    {
+        "code": "CD-LP-001",
+        "strand": "Coding",
+        "learningGoal": "Learn how to use Logic and Programming Languages",
+        "learningGoalShortened": "Logic and Programming",
+        "learningObjective": "I can use Conditional Statements in Swift",
+        "keywords": ["Comparison Operators", "guard", "if/else", "switch/case"],
+        "priority": "Core"
+    },
+    {
+        "code": "CD-LP-002",
+        "strand": "Coding",
+        "learningGoal": "Learn how to use Logic and Programming Languages",
+        "learningGoalShortened": "Logic and Programming",
+        "learningObjective": "I can use Variables and Constants in Swift",
+        "keywords": ["Comments", "Constants and Variables"],
+        "priority": "Core"
+    },
+    {
+        "code": "CD-LP-016",
+        "strand": "Coding",
+        "learningGoal": "Learn how to use Logic and Programming Languages",
+        "learningGoalShortened": "Logic and Programming",
+        "learningObjective": "I know how to work with Access Control in Swift",
+        "keywords": ["Fileprivate", "Internal", "Private", "Public"],
+        "priority": "Elective"
+    },
+    {
+        "code": "CD-MG-001",
+        "strand": "Coding",
+        "learningGoal": "Learn how to work with Media, Animation and Games",
+        "learningGoalShortened": "Media - Animation and Games",
+        "learningObjective": "I can integrate iOS device camera and motion features to produce augmented reality experiences with ARKit",
+        "keywords": ["AR Quick Look", "Audio", "Setup", "Shared Experiences", "Views", "Virtual Content"],
+        "priority": "Elective"
+    },
+    {
+        "code": "CD-OS-001",
+        "strand": "Coding",
+        "learningGoal": "Learn how to work with Operating Systems",
+        "learningGoalShortened": "Operating Systems",
+        "learningObjective": "I can construct and manage a graphical, event-driven user interface for my macOS app with AppKit",
+        "keywords": ["App structure", "Graphics Drawing and Printing", "Text", "User Interactions", "User Interface"],
+        "priority": "Elective"
+    },
+    {
+        "code": "CD-PF-001",
+        "strand": "Coding",
+        "learningGoal": "Learn how to use Platform Functionalities",
+        "learningGoalShortened": "Platform Functionalities",
+        "learningObjective": "I can implement User Privacy protection features in my apps",
+        "keywords": ["Encrypting App’s Files", "Requesting Access to Protected Resources"],
+        "priority": "Core"
+    },
+    {
+        "code": "CD-PF-003",
+        "strand": "Coding",
+        "learningGoal": "Learn how to use Platform Functionalities",
+        "learningGoalShortened": "Platform Functionalities",
+        "learningObjective": "I can manage resources located in an app, framework, or plugin bundle with Bundle Resources",
+        "keywords": ["Property Lists"],
+        "priority": "Elective"
+    },
+    {
+        "code": "CD-SF-001",
+        "strand": "Coding",
+        "learningGoal": "Learn how to use Supporting Frameworks",
+        "learningGoalShortened": "Supporting Frameworks",
+        "learningObjective": "I can create apps that help people better understand and manage their health with CareKit",
+        "keywords": ["Data Customization", "Data Management", "Patient Data", "Tasks and Outcomes", "User Interface"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-BND-001",
+        "strand": "Design",
+        "learningGoal": "Learn how to design visually consistent experiences for apps.",
+        "learningGoalShortened": "Consistency and Branding",
+        "learningObjective": "I can conduct visual research to define the visual style of a project.",
+        "keywords": ["Style", "Visual research"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-BND-002",
+        "strand": "Design",
+        "learningGoal": "Learn how to design visually consistent experiences for apps.",
+        "learningGoalShortened": "Consistency and Branding",
+        "learningObjective": "I can design a consistent visual branding scheme for my app while deferring to content.",
+        "keywords": ["App icon", "Branding", "Visual brand"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-COM-001",
+        "strand": "Design",
+        "learningGoal": "Learn how to use and customize system-defined components to give users a familiar and consistent experience.",
+        "learningGoalShortened": "Apple Components",
+        "learningObjective": "I apply best practices when designing status indicators in an app.",
+        "keywords": ["Progress indicators"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-COM-002",
+        "strand": "Design",
+        "learningGoal": "Learn how to use and customize system-defined components to give users a familiar and consistent experience.",
+        "learningGoalShortened": "Apple Components",
+        "learningObjective": "I apply best practices when designing appropriate content components in an app.",
+        "keywords": ["Image view", "Text view", "Web view"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-GAM-001",
+        "strand": "Design",
+        "learningGoal": "Learn and apply the principles of Game Design and Game Art.",
+        "learningGoalShortened": "Game Design and Game Art",
+        "learningObjective": "I understand the design differences between: an app and a game, and using gamification and creating a game.",
+        "keywords": ["Game, Gamification"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-GAM-002",
+        "strand": "Design",
+        "learningGoal": "Learn and apply the principles of Game Design and Game Art.",
+        "learningGoalShortened": "Game Design and Game Art",
+        "learningObjective": "I can apply different techniques to prototype games, either with programming or off-code.",
+        "keywords": ["Game lo-fi prototype", "Game prototype", "Game scripts"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-INC-001",
+        "strand": "Design",
+        "learningGoal": "Learn to design with accessibility in mind for all users.",
+        "learningGoalShortened": "Inclusion & Accessibility",
+        "learningObjective": "I can write copy for an app that is direct, easy to understand and inclusive.",
+        "keywords": ["Behaviour", "Informal", "Terminology", "UX writing", "Welcoming and approachable language"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-INC-003",
+        "strand": "Design",
+        "learningGoal": "Learn to design with accessibility in mind for all users.",
+        "learningGoalShortened": "Inclusion & Accessibility",
+        "learningObjective": "I can design interfaces that support both left-to-right and right-to-left languages.",
+        "keywords": ["Accessibility", "Language direction", "Left-to-right text", "Right-to-left text"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-PAT-001",
+        "strand": "Design",
+        "learningGoal": "Learn the interaction and visual patterns of the common actions, tasks and experiences for Apple platforms.",
+        "learningGoalShortened": "Apple Design Patterns",
+        "learningObjective": "I apply best practices for data entry and manipulation in an app.",
+        "keywords": ["Drag and drop", "Entering data", "File management", "Quick Look previews", "Searching", "Undo and redo"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-PAT-002",
+        "strand": "Design",
+        "learningGoal": "Learn the interaction and visual patterns of the common actions, tasks and experiences for Apple platforms.",
+        "learningGoalShortened": "Apple Design Patterns",
+        "learningObjective": "I apply best practices for providing visual and haptic feedback to users.",
+        "keywords": ["Animations", "Custom haptics launch screen", "Haptic Feedback", "Status feedback"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-PAT-007",
+        "strand": "Design",
+        "learningGoal": "Learn the interaction and visual patterns of the common actions, tasks and experiences for Apple platforms.",
+        "learningGoalShortened": "Apple Design Patterns",
+        "learningObjective": "I can design appropriate and consistent authentication experiences.",
+        "keywords": ["Authentication", "Managing accounts", "Sign In with Apple"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-PLA-001",
+        "strand": "Design",
+        "learningGoal": "Learn to apply best practices when designing for Apple platforms with various inputs.",
+        "learningGoalShortened": "Apple Platforms and Inputs",
+        "learningObjective": "I can apply best practices when designing iOS apps.",
+        "keywords": ["iOS", "iPhone"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-PLA-002",
+        "strand": "Design",
+        "learningGoal": "Learn to apply best practices when designing for Apple platforms with various inputs.",
+        "learningGoalShortened": "Apple Platforms and Inputs",
+        "learningObjective": "I can apply best practices when using advanced inputs for iOS apps.",
+        "keywords": ["Game controllers", "Gyro and accelerometer", "Keyboards", "Touchscreen gestures"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-PRO-001",
+        "strand": "Design",
+        "learningGoal": "Learn to create app prototypes in multiple levels of fidelity.",
+        "learningGoalShortened": "Prototyping",
+        "learningObjective": "I can design instructive user flows.",
+        "keywords": ["UI/User flow"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-PRO-004",
+        "strand": "Design",
+        "learningGoal": "Learn to create app prototypes in multiple levels of fidelity.",
+        "learningGoalShortened": "Prototyping",
+        "learningObjective": "I can design advanced transitions and animations for high-fidelity prototypes.",
+        "keywords": ["Prototype animation", "Prototype transitions"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-TEC-001",
+        "strand": "Design",
+        "learningGoal": "Learn to design apps using Apple technologies, features, and services that can be integrated into apps or games.",
+        "learningGoalShortened": "Apple Technologies",
+        "learningObjective": "I can design Siri interactions with appropriate Shortcuts and Responses.",
+        "keywords": ["Siri interactions", "Siri shortcut responses", "Siri shortcuts", "UX writing"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-UCD-001",
+        "strand": "Design",
+        "learningGoal": "Learn to apply methods and processes of User-Centered Design to App Development, supporting effective design choices through user research and user testing.",
+        "learningGoalShortened": "User-centered Design",
+        "learningObjective": "I can create authentic and well-researched User Personas.",
+        "keywords": ["User personas"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-UCD-002",
+        "strand": "Design",
+        "learningGoal": "Learn to apply methods and processes of User-Centered Design to App Development, supporting effective design choices through user research and user testing.",
+        "learningGoalShortened": "User-centered Design",
+        "learningObjective": "I can conduct user testing sessions in person and remotely",
+        "keywords": ["User testing"],
+        "priority": "Core"
+    },
+    {
+        "code": "DE-UCD-004",
+        "strand": "Design",
+        "learningGoal": "Learn to apply methods and processes of User-Centered Design to App Development, supporting effective design choices through user research and user testing.",
+        "learningGoalShortened": "User-centered Design",
+        "learningObjective": "I can evaluate usability, recognize flaws and problems and provide recommendations to improve the design.",
+        "keywords": ["Usability testing"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-VIS-001",
+        "strand": "Design",
+        "learningGoal": "Learn to apply the fundamental elements of Visual and Communication design to App Development.",
+        "learningGoalShortened": "Visual Design Fundamentals",
+        "learningObjective": "I can apply colour theory principles to create well-balanced colour palettes.",
+        "keywords": ["Color palettes", "Color spaces", "Color theory", "Color wheel"],
+        "priority": "Elective"
+    },
+    {
+        "code": "DE-VIS-002",
+        "strand": "Design",
+        "learningGoal": "Learn to apply the fundamental elements of Visual and Communication design to App Development.",
+        "learningGoalShortened": "Visual Design Fundamentals",
+        "learningObjective": "I can use colour and contrast effectively throughout an app to create consistent and clear communication.",
+        "keywords": ["Color", "Colour palette", "Contrast"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-AG-001",
+        "strand": "Process",
+        "learningGoal": "Learn the basics of Agile",
+        "learningGoalShortened": "Agile",
+        "learningObjective": "I can explain and apply the Agile philosophy, including values and principles.",
+        "keywords": ["Agile philosophy"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PR-CB-001",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can move from an abstract Big Idea to a concrete and actionable Challenge.",
+        "keywords": ["Engage"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-002",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can effectively use Exploratory Cycles of Guiding Questions, Guiding Activities/Resources, and syntheses to move forward through the CBLD framework",
+        "keywords": ["Investigate"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-003",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can articulate solutions that are supported by what was learned during the exploratory cycles.",
+        "keywords": ["Solutions Identification"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-004",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can logically move from a solution statement to a description of an app that will contribute to solving a challenge.",
+        "keywords": ["App description", "Solution Statement"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-005",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can use my solution statement and domain investigation synthesis to develop applicable app requirements and a prototype.",
+        "keywords": ["App requirements and prototype"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-006",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can deconstruct a prototype to develop a learning and development backlog.",
+        "keywords": ["Development backlog", "Prototype deconstruction"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-007",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can effectively use Exploratory Cycles combined with other software development methodologies to develop an application while learning.",
+        "keywords": ["Software development"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-008",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can use TestFlight and the App Store to get feedback on my solution.",
+        "keywords": ["Feedback"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-009",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I use the feedback and data collected from stakeholders to determine if the solution effectively solved the challenge and to make improvements.",
+        "keywords": ["Iteration"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-010",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I reflect on a regular basis and use the results to become a better Learner and developer.",
+        "keywords": ["Reflection"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-011",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can document my work during Challenges and use it for continuous improvement.",
+        "keywords": ["Documentation"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-012",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I share my learning with others for the betterment of the community.",
+        "keywords": ["Sharing"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-CB-013",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can clearly identify the goals and objectives of my research.",
+        "keywords": ["Research"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PR-CB-014",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can conduct research by selecting and applying appropriate research methods.",
+        "keywords": ["Research"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PR-CB-015",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I can extract, interpret and communicate meaningful research findings.",
+        "keywords": ["Research"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PR-CB-016",
+        "strand": "Process",
+        "learningGoal": "Learn how to use the Challenge Based Learning and Development (CBLD) framework.",
+        "learningGoalShortened": "CBLD",
+        "learningObjective": "I am able to critically evaluate and creatively propose viewpoints, perspectives and techniques for making relevant use of technology.",
+        "keywords": ["critical thinking", "problem solving", "technology use and control"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PR-KA-001",
+        "strand": "Process",
+        "learningGoal": "Learn the basics of the Kanban methodology.",
+        "learningGoalShortened": "Kanban",
+        "learningObjective": "I understand the purpose of Kanban and how it relates to other Agile methodologies.",
+        "keywords": ["Kanban"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PR-LN-001",
+        "strand": "Process",
+        "learningGoal": "Learn the basics of the Lean methodology.",
+        "learningGoalShortened": "Lean",
+        "learningObjective": "I understand the seven core concepts of Lean and how they can be applied to software management.",
+        "keywords": ["Lean Core concepts"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PR-PM-001",
+        "strand": "Process",
+        "learningGoal": "Learn the fundamentals of Project Management (PMP)",
+        "learningGoalShortened": "Project Management",
+        "learningObjective": "I can demonstrate the basic concepts of project management to identify milestones, monitor and adjust a project’s progression.",
+        "keywords": ["Basic Project Management"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-PM-002",
+        "strand": "Process",
+        "learningGoal": "Learn the fundamentals of Project Management (PMP)",
+        "learningGoalShortened": "Project Management",
+        "learningObjective": "I can explain the components and purpose for traditional (waterfall, incremental, etc.) and modern (Agile, Lean, etc.) approaches to project management.",
+        "keywords": ["Project management approaches"],
+        "priority": "Core"
+    },
+    {
+        "code": "PR-PM-003",
+        "strand": "Process",
+        "learningGoal": "Learn the fundamentals of Project Management (PMP)",
+        "learningGoalShortened": "Project Management",
+        "learningObjective": "I can create measurable project objectives and deliverables.",
+        "keywords": ["Project Objectives"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PR-SC-001",
+        "strand": "Process",
+        "learningGoal": "Learn the basics of Scrum methodology.",
+        "learningGoalShortened": "Scrum",
+        "learningObjective": "I can describe the Scrum methodology including the five core values and the alignment with Agile.",
+        "keywords": ["Scrum methodology"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PR-XP-001",
+        "strand": "Process",
+        "learningGoal": "Learn the basics of Extreme Programming (XP) methodology.",
+        "learningGoalShortened": "XP",
+        "learningObjective": "I understand the core concepts of Extreme programming and how they can be used to improve software quality.",
+        "keywords": ["XP Core concepts"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PS-AWA-001",
+        "strand": "Professional Skills",
+        "learningGoal": "Learn how to understand yourself and appreciate others.",
+        "learningGoalShortened": "Self and Social Awareness",
+        "learningObjective": "I can demonstrate empathy for others and act responsibly with the interests of the larger community in mind",
+        "keywords": ["Empathy"],
+        "priority": "Core"
+    },
+    {
+        "code": "PS-COL-001",
+        "strand": "Professional Skills",
+        "learningGoal": "Learn how to collaborate effectively and respectfully with diverse individuals and teams.",
+        "learningGoalShortened": "Collaboration",
+        "learningObjective": "I can demonstrate responsibility for collaborative work.",
+        "keywords": ["collaborative work"],
+        "priority": "Core"
+    },
+    {
+        "code": "PS-COM-001",
+        "strand": "Professional Skills",
+        "learningGoal": "Learn how to communicate in a variety of situations to reach different audiences.",
+        "learningGoalShortened": "Communication",
+        "learningObjective": "I can perform active listening.",
+        "keywords": ["active listening"],
+        "priority": "Core"
+    },
+    {
+        "code": "PS-EMP-001",
+        "strand": "Professional Skills",
+        "learningGoal": "Learn how to prepare for your professional future.",
+        "learningGoalShortened": "Employability",
+        "learningObjective": "I can create a Curriculum Vitae / Résumé according to my local standards.",
+        "keywords": ["CV, Resume"],
+        "priority": "Core"
+    },
+    {
+        "code": "PS-EMP-005",
+        "strand": "Professional Skills",
+        "learningGoal": "Learn how to prepare for your professional future.",
+        "learningGoalShortened": "Employability",
+        "learningObjective": "I can write compelling cover letters to apply for employment opportunities.",
+        "keywords": ["Cover Letter", "Personal brand", "Resume"],
+        "priority": "Elective"
+    },
+    {
+        "code": "PS-INI-001",
+        "strand": "Professional Skills",
+        "learningGoal": "Learn how to assess a situation and take action, make things happen efficiently.",
+        "learningGoalShortened": "Initiative",
+        "learningObjective": "I can set and manage personal goals.",
+        "keywords": ["Personal goals", "results driven"],
+        "priority": "Core"
+    },
+    {
+        "code": "PS-INN-001",
+        "strand": "Professional Skills",
+        "learningGoal": "Learn how to think outside of the box to evaluate and present new ideas.",
+        "learningGoalShortened": "Innovation",
+        "learningObjective": "I can demonstrate a range of idea creation techniques.",
+        "keywords": ["Idea creation"],
+        "priority": "Core"
+    },
+    {
+        "code": "PS-PRO-001",
+        "strand": "Professional Skills",
+        "learningGoal": "Learn how to prioritize tasks and work efficiently.",
+        "learningGoalShortened": "Productivity",
+        "learningObjective": "I can evaluate my time in order to accomplish long and short term goals",
+        "keywords": ["Time management"],
+        "priority": "Core"
+    }
+]
+ 
